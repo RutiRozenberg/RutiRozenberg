@@ -6,115 +6,113 @@ Dedicated, motivated, and committed to continuous growth and excellence in the f
 
 <h2>My skills</h2> 
 <table>
-	
   <tr>
     <td align="center" width="90">
-      <img width="40" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/nodejs-dark.svg" alt="Node.js" title="Node.js"/>
+      <a href="https://nodejs.org/"><img width="40" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/nodejs-dark.svg" alt="Node.js" title="Node.js"/></a>
       <br>Node.js
     </td>
     <td align="center" width="90">
-      <img width="40" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/>
+      <a href="https://expressjs.com/"><img width="40" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></a>
       <br>Express
     </td>
     <td align="center" width="90">
-      <img width="40" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt=".NET Core" title=".NET Core"/> 
+      <a href="https://dotnet.microsoft.com/en-us/"><img width="40" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt=".NET Core" title=".NET Core"/> </a>
       <br>.NET Core
     </td>
     <td align="center" width="90">
-      <img width="40" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/>
+      <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img width="40" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/></a>
       <br>C#
     </td>
     <td align="center" width="90">
-      <img width="40" src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" title="Java"/>
+      <a href="https://www.java.com/en/"><img width="40" src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" title="Java"/></a>
       <br>Java
     </td>
     <td align="center" width="90">
-      <img width="40" src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" title="Python"/>
+      <a href="https://www.python.org/"><img width="40" src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" title="Python"/></a>
       <br>Python
     </td>	  
   </tr>
   
   <tr>
     <td align="center" width="90">
-	<img width="40" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/>
-	<br>TypeScript	  
+      <a href="https://www.typescriptlang.org/"><img width="40" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></a>
+      <br>TypeScript	  
     </td>
     <td align="center" width="90">
-	<img width="40" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
-	<br>JavaScript	  
+      <a><img width="40" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></a>
+      <br>JavaScript	  
     </td>
     <td align="center" width="90">
-	<img width="40" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
-	<br>JavaScript	  
+      <a><img width="40" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></a>
+      <br>HTML	  
     </td>
     <td align="center" width="90">
-	<img width="40" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
-	<br>CSS	  
+      <a><img width="40" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></a>
+      <br>CSS	  
     </td>
     <td align="center" width="90">
-	<img width="40" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/angular-auto.svg" alt="Angular" title="Angular"/>
-	<br>Angular	  
+      <a href="https://angular.io/"><img width="40" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/angular-auto.svg" alt="Angular" title="Angular"/></a>
+      <br>Angular	  
     </td>
     <td align="center" width="90">
-	<img width="40" src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" title="React"/>
-	<br>React  
+      <a href="https://legacy.reactjs.org/"><img width="40" src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" title="React"/></a>
+      <br>React  
     </td>	  
   </tr>
    
   <tr>
     <td align="center" width="90">
-	<img width="40" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/mysql-auto.svg" alt="MySQL" title="MySQL"/>
-	<br>MySQL  
+      <a href="https://www.mysql.com/"><img width="40" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/mysql-auto.svg" alt="MySQL" title="MySQL"/></a>
+      <br>MySQL  
     </td> 
     <td align="center" width="90">
-	<img width="40" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/mongodb.svg" alt="mongoDB" title="mongoDB"/>
-	<br>MongoDB	  
+      <a href="https://www.mongodb.com/"><img width="40" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/mongodb.svg" alt="mongoDB" title="mongoDB"/></a>
+      <br>MongoDB	  
     </td>
     <td align="center" width="90">
-	<img width="40" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/sqlserver-light.svg" alt="MSSQL" title="MSSQL"/>
-	<br>SQLServer
+      <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img width="40" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/sqlserver-light.svg" alt="MSSQL" title="MSSQL"/></a>
+      <br>SQLServer
     </td> 
     <td align="center" width="90">
-	<img width="40" src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" title="Redux"/>
-	<br>Redux  
+      <a href="https://redux-toolkit.js.org/"><img width="40" src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" title="Redux"/></a>
+      <br>Redux Toolkit  
     </td>
     <td align="center" width="90">
-	<img width="40" src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="Material UI" title="Material UI"/>
-	<br>MUI 
+      <a href="https://mui.com/"><img width="40" src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="Material UI" title="Material UI"/></a>
+      <br>MUI 
     </td>
     <td align="center" width="90">
-	<img width="40" src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="Vite" title="Vite"/>
-	<br>Vite	  
+      <a href="https://vitejs.dev/"><img width="40" src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="Vite" title="Vite"/></a>
+      <br>Vite	  
     </td>
   </tr>
 
   <tr>
     <td align="center" width="90">
-	<img width="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
-	<br>Git	  
+      <a href="https://git-scm.com/"><img width="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></a>
+      <br>Git	  
     </td> 
     <td align="center" width="90">
-	<img width="40" src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" title="GitHub"/>
-	<br>GitHub  
+      <a href="https://github.com/"><img width="40" src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" title="GitHub"/></a>
+      <br>GitHub  
     </td>
     <td align="center" width="90">
-	<img width="40" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/>
-	<br>VS Code
+      <a href="https://code.visualstudio.com/"><img width="40" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></a>
+      <br>VS Code
     </td>
     <td align="center" width="90">
-	<img width="40" src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png" alt="eclipse" title="eclipse"/>
-	<br>Eclipse  
+      <a href="https://eclipseide.org/"><img width="40" src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png" alt="eclipse" title="eclipse"/></a>
+      <br>Eclipse  
     </td> 
     <td align="center" width="90">
-	<img width="40" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/>
-	<br>Swagger
+      <a href="https://swagger.io/"><img width="40" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/></a>
+      <br>Swagger
     </td>
     <td align="center" width="90">
-	<img width="40" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
-	<br>Postman
+      <a href="https://www.postman.com/"><img width="40" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></a>
+      <br>Postman
     </td>  
   </tr>
-  
 </table>
 
 
