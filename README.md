@@ -1,9 +1,7 @@
 
 <h1 align="center">Hi <img width="35" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif"/>, I'm Ruti Rozenberg</h1>
-<h3 align="center">Full Stack Developer</h3>
-
-<h2>About me </h2>
-I am a software developer who enjoys creating solutions with code and solving complex problems. I am driven by a constant desire for improvement and knowledge. I strive to write clean, efficient, and maintainable code. Learning and experimentation are key to my development journey, and I am always looking to advance my skills and tackle new challenges.
+I am a Full Stack Developer with strong self-learning capabilities and have a passion for mastering new technologies.
+Dedicated, motivated, and committed to continuous growth and excellence in the field.
 
 
 <h2>My skills</h2> 
