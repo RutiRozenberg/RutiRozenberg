@@ -38,3 +38,10 @@ Dedicated, motivated, and committed to continuous growth and excellence in the f
     <a href="https://eclipseide.org/"><img width="40" src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png" alt="eclipse" title="eclipse"/></a>
     <a href="https://swagger.io/"><img width="40" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/></a>
     <a href="https://www.postman.com/"><img width="40" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></a>
+
+<h3>Cloud</h3>
+<a href="https://www.docker.com/"><img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker" title="Docker"/></a>
+<a href="https://aws.amazon.com/"><img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Light.svg" alt="AWS" title="AWS"/></a>
+
+
+
