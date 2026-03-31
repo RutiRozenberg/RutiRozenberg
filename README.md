@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img width="35" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif"/>, I'm Ruti Rozenberg</h1>
+<h1 align="center">Hi <img width="35" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif"/>, I'm Ruti Weil</h1>
 I am a Full Stack Developer with strong self-learning capabilities and have a passion for mastering new technologies.
 Dedicated, motivated, and committed to continuous growth and excellence in the field.
 
